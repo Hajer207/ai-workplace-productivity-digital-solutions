@@ -1,4 +1,4 @@
-# AI-Powered Digital Solutions Portfolio
+# AI Workplace Productivity Portfolio - Digital Solutions Analyst
 
 > A practical portfolio demonstrating how generative AI can support digital solution analysis, workplace communication, information processing, planning, verification, and responsible decision support.
 
